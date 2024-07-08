@@ -31,6 +31,9 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<java.version>17</java.version>
+
+            <sonar.organization>manish636700</sonar.organization>
+            <sonar.host.url>https://sonarcloud.io</sonar.host.url>git
 	</properties>
 
 	<dependencies>
