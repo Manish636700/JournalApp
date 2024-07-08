@@ -33,7 +33,7 @@
 		<java.version>17</java.version>
 
             <sonar.organization>manish636700</sonar.organization>
-            <sonar.host.url>https://sonarcloud.io</sonar.host.url>git
+            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
